@@ -22,7 +22,7 @@ Aquí encontrarás una colección de mis proyectos, herramientas que utilizo, y 
 - **Carrera:** Ingeniería en Computación  
 - **Residencia:** Guayaquil, Ecuador  
 - **Sitio web:** [https://esotilin777x.github.io](https://esotilin777x.github.io)  
-- **Correo institucional:** andres.bohorquez@est.uce.edu.ec  
+- **Correo institucional:** andbvill@espol.edu.ec
 
 ---
 
@@ -66,7 +66,7 @@ Si deseas contactarme por oportunidades, colaboración o simplemente conversar s
 
 - 📧 **Correo institucional:** andbvill@espol.edu.ec
 - 🌍 **Sitio web personal:** [https://esotilin777x.github.io](https://esotilin777x.github.io)
-- 💼 **LinkedIn:** *(agrega si tienes)*
+- 💼 **LinkedIn:** 
 
 
 
