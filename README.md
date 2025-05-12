@@ -42,7 +42,7 @@ Aquí encontrarás una colección de mis proyectos, herramientas que utilizo, y 
 
 ## 🛠️ Tecnologías que uso
 
-- Lenguajes: **Java**, **Python**, **SQL**, **HTML/CSS** **C#**
+- Lenguajes: **Java**, **Python**, **SQL**, **HTML/CSS**, **C#**
 - Frameworks: **Swing**, **.NET**, **POO**
 - Herramientas: **Git**, **GitHub**, **MySQL Workbench**, **VS Code**, **NetBeans**, **Visual Studio**
 
