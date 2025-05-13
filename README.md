@@ -64,7 +64,7 @@ Si deseas contactarme por oportunidades, colaboración o simplemente conversar s
 
 - 📧 **Correo institucional:** andbvill@espol.edu.ec
 - 🌍 **Sitio web personal:** [https://esotilin777x.github.io](https://esotilin777x.github.io)
-- 💼 **LinkedIn:** www.linkedin.com/in/https://www.linkedin.com/in/andr3sbv/
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/andr3sbv/)
 
 
 
