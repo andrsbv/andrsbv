@@ -36,8 +36,6 @@ Aquí encontrarás una colección de mis proyectos, herramientas que utilizo, y 
 | 🎪 **App para feria tecnológica** | Módulo de interacción para feria académica. | Java, POO | ✅ Terminado | [Ver repo](https://github.com/miguelmml12/POO-P3-G06.git) |
 | 🛒 **Sistema de bases de datos** | CRUD de productos y clientes para tienda. | MySQL, Java | ✅ Terminado | [Ver repo](https://github.com/esotilin777x/Sistema-de-bases-de-datos.git) |
 
-📸 *Capturas de pantalla disponibles en cada repositorio*
-
 ---
 
 ## 🛠️ Tecnologías que uso
@@ -66,7 +64,8 @@ Si deseas contactarme por oportunidades, colaboración o simplemente conversar s
 
 - 📧 **Correo institucional:** andbvill@espol.edu.ec
 - 🌍 **Sitio web personal:** [https://esotilin777x.github.io](https://esotilin777x.github.io)
-- 💼 **LinkedIn:** 
+- 💼 **LinkedIn:** www.linkedin.com/in/https://www.linkedin.com/in/andr3sbv/
+
 
 
 
