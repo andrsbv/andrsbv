@@ -21,7 +21,7 @@ Aquí encontrarás una colección de mis proyectos, herramientas que utilizo, y 
 - **Nombre:** Andrés Bohórquez  
 - **Carrera:** Ingeniería en Computación  
 - **Residencia:** Guayaquil, Ecuador  
-- **Sitio web:** [[https://andrsbv.github.io](https://andrsbv.github.io/andrsbv/) 
+- **Sitio web:** [https://andrsbv.github.io](https://andrsbv.github.io/andrsbv/) 
 - **Correo institucional:** andbvill@espol.edu.ec
 
 ---
@@ -63,7 +63,7 @@ Me encuentro en constante formación en los siguientes temas:
 Si deseas contactarme por oportunidades, colaboración o simplemente conversar sobre tecnología:
 
 - 📧 **Correo institucional:** andbvill@espol.edu.ec
-- 🌍 **Sitio web personal:** [https://andrsbv.github.io](https://andrsbv.github.io)
+- 🌍 **Sitio web personal:** [https://andrsbv.github.io](https://andrsbv.github.io/andrsbv/) 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/andr3sbv/
 
 
