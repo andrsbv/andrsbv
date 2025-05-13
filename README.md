@@ -21,7 +21,7 @@ Aquí encontrarás una colección de mis proyectos, herramientas que utilizo, y 
 - **Nombre:** Andrés Bohórquez  
 - **Carrera:** Ingeniería en Computación  
 - **Residencia:** Guayaquil, Ecuador  
-- **Sitio web:** [https://esotilin777x.github.io](https://esotilin777x.github.io)  
+- **Sitio web:** [https://andrsbv.github.io](https://andrsbv.github.io)  
 - **Correo institucional:** andbvill@espol.edu.ec
 
 ---
@@ -31,10 +31,10 @@ Aquí encontrarás una colección de mis proyectos, herramientas que utilizo, y 
 | Proyecto | Descripción | Tecnologías | Estado | Enlace |
 |---------|-------------|-------------|--------|--------|
 | 🎮 **Juego tipo Akinator** | Sistema de toma de decisiones estilo Akinator. | Python, Árboles binarios | ✅ Terminado | [Ver repo](https://github.com/AndresSalazar19/ED_P1_Sistema-de-Toma-de-Decisiones_Grupo09.git) |
-| 📦 **Algoritmo de Huffman** | Compresor de texto con codificación Huffman. | Java | ✅ Terminado | [Ver repo](https://github.com/esotilin777x/MD_P5_Grupo05.git) |
+| 📦 **Algoritmo de Huffman** | Compresor de texto con codificación Huffman. | Java | ✅ Terminado | [Ver repo](https://github.com/andrsbv/MD_P5_Grupo05.git) |
 | 🚗 **App de concesionaria** | Simulación de gestión de vehículos. | Java, Swing | ✅ Terminado | [Ver repo](https://github.com/AndresSalazar19/ED_P1_Grupo09.git) |
 | 🎪 **App para feria tecnológica** | Módulo de interacción para feria académica. | Java, POO | ✅ Terminado | [Ver repo](https://github.com/miguelmml12/POO-P3-G06.git) |
-| 🛒 **Sistema de bases de datos** | CRUD de productos y clientes para tienda. | MySQL, Java | ✅ Terminado | [Ver repo](https://github.com/esotilin777x/Sistema-de-bases-de-datos.git) |
+| 🛒 **Sistema de bases de datos** | CRUD de productos y clientes para tienda. | MySQL, Java | ✅ Terminado | [Ver repo](https://github.com/andrsbv/Sistema-de-bases-de-datos.git) |
 
 ---
 
@@ -63,7 +63,7 @@ Me encuentro en constante formación en los siguientes temas:
 Si deseas contactarme por oportunidades, colaboración o simplemente conversar sobre tecnología:
 
 - 📧 **Correo institucional:** andbvill@espol.edu.ec
-- 🌍 **Sitio web personal:** [https://esotilin777x.github.io](https://esotilin777x.github.io)
+- 🌍 **Sitio web personal:** [https://andrsbv.github.io](https://andrsbv.github.io)
 - 💼 **LinkedIn:** https://www.linkedin.com/in/andr3sbv/
 
 
