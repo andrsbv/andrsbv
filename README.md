@@ -30,10 +30,10 @@ Aquí encontrarás una colección de mis proyectos, herramientas que utilizo, y 
 
 | Proyecto | Descripción | Tecnologías | Estado | Enlace |
 |---------|-------------|-------------|--------|--------|
-| 🎮 **Juego tipo Akinator** | Sistema de toma de decisiones estilo Akinator. | Python, Árboles binarios | ✅ Terminado | [Ver repo](https://github.com/AndresSalazar19/ED_P1_Sistema-de-Toma-de-Decisiones_Grupo09.git) |
-| 📦 **Algoritmo de Huffman** | Compresor de texto con codificación Huffman. | Java | ✅ Terminado | [Ver repo](https://github.com/andrsbv/MD_P5_Grupo05.git) |
-| 🚗 **App de concesionaria** | Simulación de gestión de vehículos. | Java, Swing | ✅ Terminado | [Ver repo](https://github.com/AndresSalazar19/ED_P1_Grupo09.git) |
-| 🎪 **App para feria tecnológica** | Módulo de interacción para feria académica. | Java, POO | ✅ Terminado | [Ver repo](https://github.com/miguelmml12/POO-P3-G06.git) |
+| 🎮 **Juego tipo Akinator** | Sistema de toma de decisiones estilo Akinator. | Java, Árboles binarios, FXML | ✅ Terminado | [Ver repo](https://github.com/AndresSalazar19/ED_P1_Sistema-de-Toma-de-Decisiones_Grupo09.git) |
+| 📦 **Algoritmo de Huffman** | Compresor de texto con codificación Huffman. | Java, FXML | ✅ Terminado | [Ver repo](https://github.com/andrsbv/MD_P5_Grupo05.git) |
+| 🚗 **App de concesionaria** | Simulación de gestión de vehículos. | Java, FXML | ✅ Terminado | [Ver repo](https://github.com/AndresSalazar19/ED_P1_Grupo09.git) |
+| 🎪 **App para feria tecnológica** | Módulo de interacción para feria académica. | Java, FXML | ✅ Terminado | [Ver repo](https://github.com/miguelmml12/POO-P3-G06.git) |
 | 🛒 **Sistema de bases de datos** | CRUD de productos y clientes para tienda. | MySQL, Java | ✅ Terminado | [Ver repo](https://github.com/andrsbv/Sistema-de-bases-de-datos.git) |
 
 ---
